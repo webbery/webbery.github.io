@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: webbery.github.io
+Token: b8a380da68d18ec3ef43f5f40eb2127de29ff84d787dcb0c3e7f295867f23a5b
